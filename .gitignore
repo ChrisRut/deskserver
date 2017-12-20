@@ -1,0 +1,6 @@
+# ignore binaries
+esp8266*
+# ignore main.py
+main.py
+# ignore ide files
+.idea
